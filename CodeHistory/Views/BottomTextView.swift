@@ -1,9 +1,3 @@
-//
-//  BottomTextView.swift
-//  CodeHistory
-//
-//  Created by Ben Stone on 3/4/21.
-//
 
 import SwiftUI
 
